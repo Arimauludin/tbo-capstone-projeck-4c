@@ -4,11 +4,12 @@ Aplikasi berbasis web responsive untuk mensimulasikan konsep-konsep utama dalam 
 ---
 
 ## 🚀 Anggota Tim & Identitas Proyek
-* **Nama Lengkap:** [Isi Nama Kamu]
-* **NIM:** [Isi NIM Kamu]
-* **Kelas:** [Isi Kelas TBO Kamu]
-* **Tautan Aplikasi Live:** `https://[domain-kamu].my.id`
-* **Video Demo YouTube:** `https://youtu.be/[id-video-demo]`
+* **Nama Lengkap:** Ari mauludin
+* **NIM:** 301240044
+* **Kelas:** 4C
+* **Tautan Aplikasi Live:** `https://tbo-capstone-projeck-4c-git-main-arimauludins-projects.vercel.app/`
+* **Video Demo YouTube:** `https://youtu.be/VF4tf1TMv0w`
+* **Link Github** `https://github.com/Arimauludin/tbo-capstone-projeck-4c.git`
 
 ---
 
